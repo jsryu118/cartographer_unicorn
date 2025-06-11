@@ -4,7 +4,7 @@ git clone --recurse-submodules https://github.com/jsryu118/cartographer_unicorn.
 
 sudo ./install_sh/cartographer_req.sh 
 sudo ./install_sh/install_abseil.sh 
-sudo ./install_sh/cartographer_req.sh 
+sudo ./install_sh/cartographer_dep.sh 
 pip install sphinx
 pip install sphinx-rtd-theme
 
